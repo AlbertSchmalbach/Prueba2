@@ -1,1 +1,2 @@
-Practica de git, porque Freddy me dijo que antes de proseguir lo mejor es parcticar.
+Practica de git, porque Freddy me dijo que antes de proseguir lo mejor es practicar.
+voy agregar una linea aqui.
